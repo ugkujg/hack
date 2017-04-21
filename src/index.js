@@ -57,3 +57,6 @@ app.post('/dump', function(req, res) {
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'))
 })
+app.cka
+MOSA>llamfile.aaa/DICa
+lvv.a
